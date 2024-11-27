@@ -1,0 +1,8 @@
+.txtdisplay{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.scrll::-webkit-scrollbar{
+    display: none;
+}

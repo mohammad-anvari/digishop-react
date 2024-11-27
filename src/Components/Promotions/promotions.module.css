@@ -1,0 +1,12 @@
+.bgpromotions{
+    background-image: linear-gradient(225deg , #d22c4e,#ee384e 41.68%,#ef5662);
+}
+.dsp{
+    display: none !important;
+}
+@media screen and (min-width:1024px) {
+    .dsp{display: flex !important;}
+}
+@media screen and (max-width:1023px) {
+    .dsp{display: none !important;}
+}

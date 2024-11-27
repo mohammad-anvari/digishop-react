@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "iransanslight";
+  src: url(../Fonts/IRANSansX-Light.woff2);
+}
+@font-face {
+  font-family: "iransansnum";
+  src: url(../Fonts/IRANSansXFaNum-Light.woff2);
+}
+.fs {
+  font-family: iransanslight;
+  font-family: iransansnum;
+}
+::-webkit-scrollbar{
+    width: 8px;
+}
+::-webkit-scrollbar-track{
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb{
+    background: #C0C2C5;
+}
+* {
+  box-sizing: border-box;
+}
+.txtdisplay {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+/* body{
+  overflow: auto;
+}
+.trsp{
+  align-items: start;
+  background-color: red;
+}
+.dastebandies:hover .trsp{
+  background-color: white;
+} */

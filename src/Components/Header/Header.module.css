@@ -1,0 +1,54 @@
+@keyframes mymove {
+    from{background-color: white;}
+    to{background-color: red;}
+
+}
+.navhover{
+    border-bottom: 2px solid #EF394E ;
+    background-color: red;
+animation: mymove 1s infinite;
+}
+.shadowbottom{
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, .14),
+    0 2px 0 rgba(0, 0, 0, .05)
+}
+.bfr::before{
+    content: "";
+    width: 1px;
+    height: 16px;
+    position: absolute;
+    top:30%;
+    left: 86%;
+    background-color: #e0e0e2;
+    
+}
+.bfr1::before{
+    content: "";
+    width: 1px;
+    height: 16px;
+    position: absolute;
+    top:30%;
+    left:23%;
+    background-color: #e0e0e2;
+    
+}
+.shadowtop{
+    box-shadow: 0px -1px 1px rgba(0, 0, 0, .14),
+    0 -2px 2px rgba(0, 0, 0, .05)
+}
+.dastebandi:hover div.subhover{
+display: flex;
+}
+.dastebandi:hover body{
+    overflow: hidden !important;
+}
+.subhover{
+display: none;
+direction: ltr;
+}
+.direction{
+    direction: rtl;
+}
+.scrll{
+    scrollbar-color: #c0c2c5#f0f0f1;
+}

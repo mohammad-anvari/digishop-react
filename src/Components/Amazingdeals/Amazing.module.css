@@ -1,0 +1,9 @@
+.bgimg{
+    background-image: url("../../../public/Image/promotions/freshPattern.svg");
+    background-position-x: left;
+    background-position-y:center ;
+    background-repeat: no-repeat;
+}
+.bggradient{
+    background-image: linear-gradient(267.6deg ,rgba(2,154,73,.1)0,rgba(242,242,242,0)100%);
+}

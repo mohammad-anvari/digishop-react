@@ -1,0 +1,912 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 11,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 12,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 13,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 14,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    },
+    {
+      "id": 15,
+      "image": "../public/Image/stories/golyapoch.jpg",
+      "text": "گل یا پوچ؟"
+    },
+    {
+      "id": 16,
+      "image": "../public/Image/stories/koleposhti.jpg",
+      "text": "کوله پشتی ابزار"
+    }
+  ],
+  "hero": [
+    { "id": 1, "image": "../public/Image/mainslider/slide1.webp" },
+    { "id": 2, "image": "../public/Image/mainslider/slide2.webp" },
+    { "id": 3, "image": "../public/Image/mainslider/slide3.webp" },
+    { "id": 4, "image": "../public/Image/mainslider/slide4.webp" },
+    { "id": 5, "image": "../public/Image/mainslider/slide5.webp" },
+    { "id": 6, "image": "../public/Image/mainslider/slide6.webp" },
+    { "id": 7, "image": "../public/Image/mainslider/slide7.webp" },
+    { "id": 8, "image": "../public/Image/mainslider/slide8.webp" },
+    { "id": 9, "image": "../public/Image/mainslider/slide9.webp" },
+    { "id": 10, "image": "../public/Image/mainslider/slide10.webp" }
+  ],
+  "digikalaservises": [
+    {
+      "id": 1,
+      "image": "../public/Image/digikalaservises/vam.png",
+      "text": "دریافت وام"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/digikalaservises/style.png",
+      "text": "حراج استایل"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/digikalaservises/jayezeplus.png",
+      "text": "جایزه پلاس"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/digikalaservises/testmezaj.jpg",
+      "text": "تست مزاج شناسی"
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/digikalaservises/byusedmobile.png",
+      "text": "خرید موبایل کارکرده"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/digikalaservises/supermarket.png",
+      "text": "سوپرمارکت پر تخفیف"
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/digikalaservises/exercise-at-home.jpg",
+      "text": "ورزش در خانه"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/digikalaservises/by-a-check.png",
+      "text": "خرید چکی"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/digikalaservises/digikalaservis.png",
+      "text": "دیجی کالا سرویس"
+    }
+  ],
+  "promotions": [
+    {
+      "id": 1,
+      "image": "../public/Image/promotions/saathoshmand.webp",
+      "text": "ساعت هوشمند ورنا مدل W49 Ultra with airpod pro به همراه هندزفری بیسیم",
+      "price": "1,138,000",
+      "lastPrice": "1,340,000",
+      "off": "15%"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/promotions/qorsbiopanten.webp",
+      "text": "قرص بیوپانتن یوروویتال بسته 60 عددی",
+      "price": "55,000",
+      "lastPrice": "240,900",
+      "off": "77%"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/promotions/lampsmd.webp",
+      "text": "لامپ اس ام دی 20 وات سایروکس مدل A80 پایه E27",
+      "price": "59,000",
+      "lastPrice": "85,000",
+      "off": "31%"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/promotions/lamphoshmand.webp",
+      "text": "لامپ هوشمند و اسپیکر بلوتوثی 7 وات زرین سیمای البرز مدل ZSA-DL-SP پایه E27",
+      "price": "149,000",
+      "lastPrice": "177,000",
+      "off": "16%"
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/promotions/bazifekri.webp",
+      "text": "بازی فکری بردباکس مدل هارو ایچیبان",
+      "price": "190,000",
+      "lastPrice": "300,000",
+      "off": "37%"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/promotions/keremmartob.webp",
+      "text": "کرم مرطوب کننده و آبرسان دست و صورت لافارر مدل 04 مناسب پوست های حساس حجم 75 میلی لیتر",
+      "price": "159,900",
+      "lastPrice": "278,750",
+      "off": "43%"
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/promotions/yakhchal.webp",
+      "text": "یخچال و فریزر ساید بای ساید 28 فوت ایکس ویژن مدل TF541-AWD/ASD",
+      "price": "29,399,000",
+      "lastPrice": "39,700,000",
+      "off": "26%"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/promotions/powerbank.webp",
+      "text": "پاوربانک کلومن مدل KP-20 45W ظرفیت 20000 میلی آمپر ساعت",
+      "price": "1,650,000",
+      "lastPrice": "2,997,000",
+      "off": "45%"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/promotions/iforia.webp",
+      "text": "ادو پرفیوم مردانه ایفوریا مدل اینوکتوس پاکو رابان حجم 100 میلی لیتر",
+      "price": "729,000",
+      "lastPrice": "1,530,000",
+      "off": "52%"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/promotions/sharzherdivari.webp",
+      "text": "شارژر دیواری تسکو مدل TTC 65",
+      "price": "313,500",
+      "lastPrice": "376,200",
+      "off": "17%"
+    },
+    {
+      "id": 11,
+      "image": "../public/Image/promotions/loster.webp",
+      "text": "لوستر دو شعله چشمه نور کد AB1234/2-WT",
+      "price": "1,049,000",
+      "lastPrice": "1,635,000",
+      "off": "36%"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "image": "../public/Image/categories/mobile.png",
+      "title": "موبایل"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/categories/digital.png",
+      "title": "کالای دیجیتال"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/categories/lavazemtahrir.png",
+      "title": "کتاب، لوازم تحریر و هنر"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/categories/home.png",
+      "title": "خانه و آشپزخانه"
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/categories/lavazemkhanegi.png",
+      "title": "لوازم خانگی برقی"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/categories/mood-poshak.png",
+      "title": "مد و پوشاک"
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/categories/tala-noghre.png",
+      "title": "طلا و نقره"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/categories/arayeshi.png",
+      "title": "آرایشی بهداشتی"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/categories/pezeshki.jpg",
+      "title": "تجهیزات پزشکی و سلامت"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/categories/varzesh.png",
+      "title": "ورزش و سفر"
+    },
+    {
+      "id": 11,
+      "image": "../public/Image/categories/car.png",
+      "title": "خودرو و موتورسیکلت"
+    },
+    {
+      "id": 12,
+      "image": "../public/Image/categories/abzar.png",
+      "title": "ابزار آلات و تجهیزات"
+    },
+    {
+      "id": 13,
+      "image": "../public/Image/categories/cardhedieh.png",
+      "title": "کارت هدیه و گیفت کارت"
+    },
+    {
+      "id": 14,
+      "image": "../public/Image/categories/khoraki.png",
+      "title": "کالای خوراکی و اساسی"
+    },
+    {
+      "id": 15,
+      "image": "../public/Image/categories/asbabbazi.png",
+      "title": "اسباب بازی، کودک و نوزاد"
+    },
+    {
+      "id": 16,
+      "image": "../public/Image/categories/mahsolatmahali.png",
+      "title": "محصولات بومی و محلی"
+    }
+  ],
+  "brand": [
+    { "id": 1, "image": "../public/Image/brand/peril.png" },
+    { "id": 2, "image": "../public/Image/brand/percil.png" },
+    { "id": 3, "image": "../public/Image/brand/kingstar.png" },
+    { "id": 4, "image": "../public/Image/brand/Adata.png" },
+    { "id": 5, "image": "../public/Image/brand/huawei.png" },
+    { "id": 6, "image": "../public/Image/brand/pegah.png" },
+    { "id": 7, "image": "../public/Image/brand/chinizarin.png" },
+    { "id": 8, "image": "../public/Image/brand/panter.jpg" },
+    { "id": 9, "image": "../public/Image/brand/pakshoma.png" },
+    { "id": 10, "image": "../public/Image/brand/vital.png" },
+    { "id": 11, "image": "../public/Image/brand/samsung.jpg" },
+    { "id": 12, "image": "../public/Image/brand/mi.png" },
+    { "id": 13, "image": "../public/Image/brand/mahya.jpg" },
+    { "id": 14, "image": "../public/Image/brand/my.png" },
+    { "id": 15, "image": "../public/Image/brand/lafarrerr.png" },
+    { "id": 16, "image": "../public/Image/brand/kaleh.png" },
+    { "id": 17, "image": "../public/Image/brand/active.jpg" },
+    { "id": 18, "image": "../public/Image/brand/softlan.png" },
+    { "id": 19, "image": "../public/Image/brand/golrang.jpg" }
+  ],
+  "featuredproducts": [
+    {
+      "id": 1,
+      "image1": "../public/Image/feature/kavergoshi/feature.jpg",
+      "image2": "../public/Image/feature/kavergoshi/ff26a412b2637a6aac52718813c41349ce9c2e6d_1669671939.jpg",
+      "image3": "../public/Image/feature/kavergoshi/f18ecc89ab16bf809943450e4a45adf51582dba3_1670186895.jpg",
+      "image4": "../public/Image/feature/kavergoshi/47781b14da493df8f4d1f889980351f206a4256a_1689299953.jpg",
+      "title": "کیف و کاور گوشی"
+    },
+    {
+      "id": 2,
+      "image1": "../public/Image/feature/mobile/mobile1.jpg",
+      "image2": "../public/Image/feature/mobile/monile2.jpg",
+      "image3": "../public/Image/feature/mobile/mobile3.jpg",
+      "image4": "../public/Image/feature/mobile/mobile4.jpg",
+      "title": "گوشی موبایل"
+    },
+    {
+      "id": 3,
+      "image1": "../public/Image/feature/headphone/headphone1.jpg",
+      "image2": "../public/Image/feature/headphone//headphone2.jpg",
+      "image3": "../public/Image/feature/headphone/headphone3.jpg",
+      "image4": "../public/Image/feature/headphone//headphone4.jpg",
+      "title": "هدفون , هدست و هندزفری"
+    },
+    {
+      "id": 4,
+      "image1": "../public/Image/feature/watch/45d12c741deabed6087269ed068c7ae9dbb36eb5_1656927654.jpg",
+      "image2": "../public/Image/feature/watch/watch2.jpg",
+      "image3": "../public/Image/feature/watch/wtch3.jpg",
+      "image4": "../public/Image/feature/watch/watch4.jpg",
+      "title": "ساعت هوشمند"
+    }
+  ],
+  "bestsellers": [
+    {
+      "id": 1,
+      "image1": "../public/Image/best/img1.webp",
+      "text1": "90 درصد گوشت مرغ مهيا پروتئين - 250 گرم",
+      "number1": "1",
+      "image2": "../public/Image/best/img2.webp",
+      "text2": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت - مونتاژ ایران تحت لیسانس نوکیا",
+      "number2": "2",
+      "image3": "../public/Image/best/img3.webp",
+      "text3": "شارژر دیواری 25 وات سامسونگ مدل EP-T2510",
+      "number3": "3"
+    },
+    {
+      "id": 2,
+      "image1": "../public/Image/best/img4.webp",
+      "text1": "گوشی موبایل نوکیا مدل 106 2023 دو سیم کارت - مونتاژ ایران تحت لیسانس نوکیا ",
+      "number1": "4",
+      "image2": "../public/Image/best/img5.webp",
+      "text2": "دستمال کاغذی نایلونی تنو 250 برگ",
+      "number2": "5",
+      "image3": "../public/Image/best/img6.webp",
+      "text3": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی",
+      "number3": "6"
+    },
+    {
+      "id": 3,
+      "image1": "../public/Image/best/img7.webp",
+      "text1": "پنیر فتا دوشه هراز - 400 گرم",
+      "number1": "7",
+      "image2": "../public/Image/best/img8.webp",
+      "text2": "گوشی موبایل شیائومی مدل Redmi Note 13 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+      "number2": "8",
+      "image3": "../public/Image/best/img9.webp",
+      "text3": "گوشی موبایل نوکیا مدل 110 2023 دو سیم کارت - مونتاژ ایران تحت لیسانس نوکیا ",
+      "number3": "9"
+    },
+    {
+      "id": 4,
+      "image1": "../public/Image/best/img10.webp",
+      "text1": "مایع لباسشویی جنرال اکتیو مدل سبز حجم  2500 میلی لیتر ",
+      "number1": "10",
+      "image2": "../public/Image/best/img11.webp",
+      "text2": "شکر سفید الماس دانه - 1 کیلوگرم",
+      "number2": "11",
+      "image3": "../public/Image/best/img12.webp",
+      "text3": "کنسرو ماهی تون در روغن شیلتون - 180 گرم",
+      "number3": "12"
+    },
+    {
+      "id": 5,
+      "image1": "../public/Image/best/img13.webp",
+      "text1": "گوشی موبایل سامسونگ مدل Galaxy A55 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام ",
+      "number1": "13",
+      "image2": "../public/Image/best/img14.webp",
+      "text2": "پوشک کودک مولفیکس سایز 6 بسته 24 عددی",
+      "number2": "14",
+      "image3": "../public/Image/best/img15.webp",
+      "text3": "پنیر لبنه آنا کاله - 350 گرم",
+      "number3": "15"
+    },
+    {
+      "id": 6,
+      "image1": "../public/Image/best/img16.webp",
+      "text1": "خامه صبحانه کاله -200 میلی لیتر ",
+      "number1": "16",
+      "image2": "../public/Image/best/img17.webp",
+      "text2": "گوشی موبایل سامسونگ مدل Galaxy A05 دو سیم کارت ظرفیت 64 گیگابایت و رم 4 گیگابایت ",
+      "number2": "17",
+      "image3": "../public/Image/best/img18.webp",
+      "text3": "مایع لباسشویی سافتلن مدل Blue حجم 3 لیتر",
+      "number3": "18"
+    }
+  ],
+  "featuredproducts2": [
+    {
+      "id": 1,
+      "image1": "../public/Image/feature2/img1.jpg",
+      "image2": "../public/Image/feature2/img2.jpg",
+      "image3": "../public/Image/feature2/img3.jpg",
+      "image4": "../public/Image/feature2/img4.jpg",
+      "title": "جوراب زنانه"
+    },
+    {
+      "id": 2,
+      "image1": "../public/Image/feature2/img5.jpg",
+      "image2": "../public/Image/feature2/img6.jpg",
+      "image3": "../public/Image/feature2/img7.jpg",
+      "image4": "../public/Image/feature2/img8.jpg",
+      "title": "ساعت عقربه ای مردانه"
+    },
+    {
+      "id": 3,
+      "image1": "../public/Image/feature2/img9.jpg",
+      "image2": "../public/Image/feature2/img10.jpg",
+      "image3": "../public/Image/feature2/img11.jpg",
+      "image4": "../public/Image/feature2/img12.jpg",
+      "title": "سایر لوازم خودرو"
+    },
+    {
+      "id": 4,
+      "image1": "../public/Image/feature2/img13.jpg",
+      "image2": "../public/Image/feature2/img14.jpg",
+      "image3": "../public/Image/feature2/img15.jpg",
+      "image4": "../public/Image/feature2/img16.jpg",
+      "title": "مکمل دارویی"
+    }
+  ],
+  "offerzone": [
+    {
+      "id": 1,
+      "image": "../public/Image/Offerzone/img1.webp",
+      "price": "1,040,000",
+      "discount": "20%",
+      "lastprice": "1,300,000"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/Offerzone/img2.webp",
+      "price": "9,685,000",
+      "discount": "4%",
+      "lastprice": "10,100,000"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/Offerzone/img3.webp",
+      "price": "550,000",
+      "discount": "88%",
+      "lastprice": "4,500,000"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/Offerzone/img4.webp",
+      "price": "990,000",
+      "discount": "",
+      "lastprice": ""
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/Offerzone/img5.webp",
+      "price": "47,999,000",
+      "discount": "4%",
+      "lastprice": "50,000,000"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/Offerzone/img6.webp",
+      "price": "499,900",
+      "discount": "85%",
+      "lastprice": "3,400,000"
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/Offerzone/img7.webp",
+      "price": "103,880",
+      "discount": "82%",
+      "lastprice": "571,100"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/Offerzone/img8.webp",
+      "price": "570,000",
+      "discount": "89%",
+      "lastprice": "5,400,000"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/Offerzone/img9.webp",
+      "price": "2,890,000",
+      "discount": "84%",
+      "lastprice": "18,000,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Offerzone/img10.webp",
+      "price": "103,880",
+      "discount": "82%",
+      "lastprice": "571,000"
+    },
+    {
+      "id": 11,
+      "image": "../public/Image/Offerzone/img11.webp",
+      "price": "570,000",
+      "discount": "89%",
+      "lastprice": "5,400,000"
+    },
+    {
+      "id": 12,
+      "image": "../public/Image/Offerzone/img12.webp",
+      "price": "2,980,000",
+      "discount": "84%",
+      "lastprice": "18,000,000"
+    },
+    {
+      "id": 13,
+      "image": "../public/Image/Offerzone/img13.webp",
+      "price": "10,468,000",
+      "discount": "8%",
+      "lastprice": "11,379,000"
+    },
+    {
+      "id": 14,
+      "image": "../public/Image/Offerzone/img14.webp",
+      "price": "570,000",
+      "discount": "89%",
+      "lastprice": "5,400,000"
+    },
+    {
+      "id": 15,
+      "image": "../public/Image/Offerzone/img15.webp",
+      "price": "44,250,000",
+      "discount": "26%",
+      "lastprice": "60,000,000"
+    },
+    {
+      "id": 16,
+      "image": "../public/Image/Offerzone/img16.webp",
+      "price": "4,839,000",
+      "discount": "",
+      "lastprice": ""
+    },
+    {
+      "id": 17,
+      "image": "../public/Image/Offerzone/img17.webp",
+      "price": "269,000",
+      "discount": "89%",
+      "lastprice": "2,500,000"
+    },
+    {
+      "id": 18,
+      "image": "../public/Image/Offerzone/img18.webp",
+      "price": "25,990,000",
+      "discount": "19%",
+      "lastprice": "32,000,000"
+    }
+  ],
+  "brands": [
+    { "id": 1, "image": "../public/Image/brandssection/digimag.svg" },
+    { "id": 2, "image": "../public/Image/brandssection/digipay.svg" },
+    { "id": 3, "image": "../public/Image/brandssection/digistyle.svg" },
+    { "id": 4, "image": "../public/Image/brandssection/digiplus.svg" },
+    { "id": 5, "image": "../public/Image/brandssection/digiclub.svg" },
+    { "id": 6, "image": "../public/Image/brandssection/jet.svg" },
+    { "id": 7, "image": "../public/Image/brandssection/digiMehr.svg" },
+    { "id": 8, "image": "../public/Image/brandssection/diginext.svg" },
+    { "id": 9, "image": "../public/Image/brandssection/digiexpress.svg" },
+    { "id": 10, "image": "../public/Image/brandssection/ganjeh.svg" },
+    { "id": 11, "image": "../public/Image/brandssection/digify.svg" },
+    { "id": 12, "image": "../public/Image/brandssection/smartech.svg" },
+    {
+      "id": 13,
+      "image": "../public/Image/brandssection/digikala-business.svg"
+    },
+    { "id": 14, "image": "../public/Image/brandssection/digikala-service.svg" }
+  ],
+  "incredibleoffers": [
+    { "id": 1, "image": "../public/Image/Incredibleoffers/slide1.webp" },
+    { "id": 2, "image": "../public/Image/Incredibleoffers/slide2.webp" }
+  ],
+  "todayspecial": [
+    {
+      "id": 1,
+      "image": "../public/Image/Incredibleoffers/Todayspecial/sliders/slide1.webp",
+      "title": "کاغذ A4 کپی مکس مدل اکسلنت 80 بسته 500 عددی",
+      "color": "سفید",
+      "price": "139,900",
+      "lastprice": "168,000",
+      "discount": "17%",
+      "score": "4.2",
+      "hour": "5",
+      "minutse": "55"
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/Incredibleoffers/Todayspecial/sliders/slide2.webp",
+      "title": "گوشی موبایل اپل مدل  iPhone 13 Pro ZAA دو سیم‌ کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت - نات اکتیو ریفربیش پارت نامبر F ",
+      "color": "خاکستری",
+      "price": "89,987,000",
+      "lastprice": "94,914,000",
+      "discount": "5%"
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/Incredibleoffers/Todayspecial/sliders/slide4.webp",
+      "title": "اسپیکر بلوتوثی قابل حمل سونی مدل srs-XP500",
+      "color": "مشکی",
+      "price": "۱۲,۷۹۹,۰۰۰",
+      "lastprice": "۱۴,۸۰۰,۰۰۰",
+      "discount": "14%",
+      "score": "4.5"
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/Incredibleoffers/Todayspecial/sliders/slide3.webp",
+      "title": "هارد اکسترنال توشیبا مدل Canvio Basics USB3.2 ظرفیت دو ترابایت",
+      "color": "مشکی",
+      "price": "3,389,000",
+      "lastprice": "3,960,000,",
+      "discount": "14%",
+      "score": "4.4",
+      "lock": true
+    }
+  ],
+  "FeaturedDeals": [
+    {
+      "id": 1,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide1.webp",
+      "title": "هدفون بلوتوثی کیو سی وای مدل T13 ANC 2",
+      "discont": 7,
+      "price": "679,000",
+      "lastPrice": "719,000",
+      "sold": 44
+    },
+    {
+      "id": 2,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide2.webp",
+      "title": "پودر پروتئین وی 100 ترک نوتریشن - 2275 گرم",
+      "discont": 12,
+      "price": "3,498,000",
+      "lastPrice": "3,995,000",
+      "sold": 70
+    },
+    {
+      "id": 3,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide3.webp",
+      "title": "کرم مرطوب کننده و آبرسان دست و صورت لافارر مدل 04 مناسب پوست های حساس حجم 75 میلی لیتر",
+      "discont": 41,
+      "price": "163,900",
+      "lastPrice": "278,750",
+      "sold": 34
+    },
+    {
+      "id": 4,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide4.webp",
+      "title": "شارژر فندکی 18 وات تسکو مدل BFM 2220",
+      "discont": 19,
+      "price": "904,900",
+      "lastPrice": "1,116,500"
+    },
+    {
+      "id": 5,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide5.webp",
+      "title": "یخچال و فریزر ساید بای ساید 30 فوت ایکس ویژن مدل TS666-AWD/ASD  ",
+      "discont": 22,
+      "price": "32,499,000",
+      "lastPrice": "41,900,000"
+    },
+    {
+      "id": 6,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide6.webp",
+      "title": "هدفون بلوتوثی کلومن مدل K-TW21",
+      "discont": 55,
+      "price": "749,000",
+      "lastPrice": "1,647,000",
+      "sold": 66
+    },
+    {
+      "id": 7,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide7.webp",
+      "title": "محافظ برق هوشمند تایمردار هادرون مدل P103 ",
+      "discont": 20,
+      "price": "366,000",
+      "lastPrice": "457,000"
+    },
+    {
+      "id": 8,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide8.webp",
+      "title": "تبلت جی ال ایکس مدل C8X ظرفیت 32 گیگابایت و رم 3 گیگابایت",
+      "discont": 4,
+      "price": "4,499,000",
+      "lastPrice": "4,999,000"
+    },
+    {
+      "id": 9,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide9.webp",
+      "title": "ادو پرفیوم مردانه زوا مدل اسپلندور  حجم 100 میلی لیتر",
+      "discont": 49,
+      "price": "299,000",
+      "lastPrice": "590,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    },
+    {
+      "id": 10,
+      "image": "../public/Image/Incredibleoffers/FeaturedDeals/slides/slide10.webp",
+      "title": "اسپری مو لروکس مدل بیوتی فایر حجم 200 میلی لیتر",
+      "discont": 35,
+      "price": "63,350",
+      "lastPrice": "99,000"
+    }
+  ],
+  "filters": [
+    {
+      "id": 1,
+      "name": "برند",
+      "brands": [
+        {
+          "id": 1,
+          "name": "آتش مهر",
+          "nameEn": "Atash mehr",
+          "htmlfor": "Atashmehr"
+        },
+        {
+          "id": 2,
+          "name": "آرت وینا",
+          "nameEn": "artvina",
+          "htmlfor": "artvina"
+        },
+        { "id": 3, "name": "آردن", "nameEn": "Ardene", "htmlfor": "Ardene" },
+        {
+          "id": 4,
+          "name": "آردن سبوما",
+          "nameEn": "Ardene Sebuma",
+          "htmlfor": "ArdeneSebuma"
+        },
+        {
+          "id": 5,
+          "name": "آلبرت وگ",
+          "nameEn": "Albert Vogue",
+          "htmlfor": "AlbertVogue"
+        },
+        { "id": 6, "name": "آوکس", "nameEn": "AWOX", "htmlfor": "AWOX" },
+        {
+          "id": 7,
+          "name": "آی جواهر",
+          "nameEn": "Ijavaher",
+          "htmlfor": "Ijavaher"
+        },
+        { "id": 8, "name": "ابکازو", "nameEn": "EBKAZO", "htmlfor": "EBKAZO" },
+        { "id": 9, "name": "اپل", "nameEn": "Apple", "htmlfor": "Apple" }
+      ]
+    },
+    { "id": 2, "name": "ارسال امروز", "icon": true },
+    { "id": 3, "name": "فقط سوپرمارکتی" },
+    { "id": 4, "name": "ارسال فروشنده", "text": "ارسال مستقیم و سریع‌تر" },
+    { "id": 5, "name": "محدوده قیمت" },
+    { "id": 6, "name": "فقط کالاهای موجود" },
+    { "id": 7, "name": "فقط کالاهای موجود در انبار دیجی‌کالا" },
+    {
+      "id": 8,
+      "name": "نوع فروشنده",
+      "sellers": [
+        { "id": 1, "name": "فروشنده رسمی", "htmlfor": "رسمی" },
+        { "id": 2, "name": "فروشنده برگزیده", "htmlfor": "برگزیده" },
+        { "id": 3, "name": "دیجی‌کالا", "htmlfor": "دیجیکالا" },
+        { "id": 4, "name": "کسب و کارهای بومی", "htmlfor": "بومی" }
+      ]
+    }
+  ],
+  "submenu": [
+    {
+      "id": 1,
+      "title": "موبایل",
+      "icon": "../public/Icons/dastebandi/mobile.svg"
+    },
+    {
+      "id": 2,
+      "title": "کالای دیجیتال",
+      "icon": "../public/Icons/dastebandi/digital.svg"
+    },
+    {
+      "id": 3,
+      "title": "کتاب، لوازم تحریر و هنر",
+      "icon": "../public/Icons/dastebandi/tahrir.svg"
+    },
+    {
+      "id": 4,
+      "title": "خانه و آشپزخانه",
+      "icon": "../public/Icons/dastebandi/khaneh.svg"
+    },
+    {
+      "id": 5,
+      "title": "لوازم خانگی برقی",
+      "icon": "../public/Icons/dastebandi/lavazemkhanegi.svg"
+    },
+    {
+      "id": 6,
+      "title": "مد و پوشاک",
+      "icon": "../public/Icons/dastebandi/tshert.svg"
+    },
+    {
+      "id": 7,
+      "title": "طلا و نقره",
+      "icon": "../public/Icons/dastebandi/tala.svg"
+    },
+    {
+      "id": 8,
+      "title": "آرایشی بهداشتی",
+      "icon": "../public/Icons/dastebandi/arayeshi.svg"
+    },
+    {
+      "id": 9,
+      "title": "تجهیزات پزشکی",
+      "icon": "../public/Icons/dastebandi/pezeshki.svg"
+    }
+  ]
+}

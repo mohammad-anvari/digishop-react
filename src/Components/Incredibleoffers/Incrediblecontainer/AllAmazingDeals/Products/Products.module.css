@@ -1,0 +1,34 @@
+.prgrid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+}
+.prgrid::-webkit-scrollbar {
+  display: none;
+}
+@media screen and (min-width: 640px) {
+  .prgrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (min-width: 1024px) {
+  .prgrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media screen and (min-width: 1280px) {
+  .prgrid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media screen and (min-width: 1440px) {
+  .prgrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+.filters::-webkit-scrollbar {
+  display: none;
+}
+/* .hv:hover{
+  z-index: 1;
+  filter: drop-shadow(0 1px 5px rgba(0,0,0,.2)) ;
+} */
