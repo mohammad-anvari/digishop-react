@@ -1,8 +1,16 @@
-# React + Vite
+# Digikala Inspired React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a practice project inspired by Digikala, built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Routing with **React Router DOM**  
+- UI icons using **react-icons** and **@react-icons/all-files**  
+- Responsive sliders with **Swiper**  
+- API requests with **Axios**  
+- Styling with **Tailwind CSS**  
+- Code quality checks using **ESLint**  
+
+## Mock API Server
+
+- For mocking and testing API endpoints, **json-server** is used.  
